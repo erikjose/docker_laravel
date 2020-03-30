@@ -1,4 +1,4 @@
-## About Laravel
+## Docker hub
 
 -   [Image - Docker hub](https://hub.docker.com/repository/docker/erikjose1996/laravel).
 
